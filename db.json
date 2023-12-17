@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin ",
+      "email": "admin@demoapp.com",
+      "active": 1,
+      "password": "demoapp123"
+    },
+    {
+      "id": "2",
+      "name": "Supriya Soman",
+      "email": "supriya@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "3",
+      "name": "Jyothi Prakash",
+      "email": "jyothi@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "4",
+      "name": "Anjali JP",
+      "email": "anjali@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "6",
+      "name": "Sreelakshmi",
+      "email": "sree@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "7",
+      "name": "Litty",
+      "email": "litty@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "8",
+      "name": "Samu",
+      "email": "samu@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "9",
+      "name": "Prasanth",
+      "email": "prasanth@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "10",
+      "active": "1",
+      "name": "Sonia George",
+      "email": "sonia@gmail.com"
+    },
+    {
+      "id": "11",
+      "name": "Unni",
+      "email": "unni@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "12",
+      "name": "Saumya VS",
+      "email": "saumya@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "13",
+      "name": "Sarath Krishnah",
+      "email": "sarath@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "14",
+      "name": "Ruturaj Gaikwad",
+      "email": "rutu@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "15",
+      "name": "jo",
+      "email": "jo@gmail.com",
+      "active": "1"
+    }
+  ]
+}
